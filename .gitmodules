@@ -8,3 +8,6 @@
 [submodule "nmathopencl"]
 	path = nmathopencl
 	url = https://github.com/knygren/nmathopencl
+[submodule "opencltools"]
+	path = opencltools
+	url = https://github.com/knygren/opencltools

@@ -5,6 +5,9 @@
 [submodule "glmbayes"]
 	path = glmbayes
 	url = https://github.com/knygren/glmbayes
+[submodule "glmbayesCore"]
+	path = glmbayesCore
+	url = https://github.com/knygren/glmbayesCore
 [submodule "nmathopencl"]
 	path = nmathopencl
 	url = https://github.com/knygren/nmathopencl

@@ -8,6 +8,9 @@
 [submodule "glmbayesCore"]
 	path = glmbayesCore
 	url = https://github.com/knygren/glmbayesCore
+[submodule "lmebayes"]
+	path = lmebayes
+	url = https://github.com/knygren/lmebayes
 [submodule "nmathopencl"]
 	path = nmathopencl
 	url = https://github.com/knygren/nmathopencl

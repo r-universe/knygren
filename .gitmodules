@@ -11,6 +11,9 @@
 [submodule "lmebayes"]
 	path = lmebayes
 	url = https://github.com/knygren/lmebayes
+[submodule "lmebayesCore"]
+	path = lmebayesCore
+	url = https://github.com/knygren/lmebayesCore
 [submodule "nmathopencl"]
 	path = nmathopencl
 	url = https://github.com/knygren/nmathopencl
